@@ -29,7 +29,7 @@ export default[
     {
         
         id: 3, 
-        title: "AREWA Compound",
+        title: "AREWA House",
         location:"Kaduna",
         googleMapUrl: "https://goo.gl/maps/vfX3kDRdRcDAx4zk6",
         startDate:"17th jan, 2020",
