@@ -1,0 +1,58 @@
+body {
+  margin:0;
+ 
+}
+nav{
+  background: #34EEF0;
+
+}
+
+.navbar{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+}
+
+
+.place--image{
+  width: 200px;
+  height: 250px;
+  border-radius: 10px;
+}
+.divs{
+  display: flex;
+  flex-direction: row;
+  margin: 20px; 
+}
+
+.div2{
+  margin: 40px;
+  text-align: justify;
+}
+a:first-of-type{
+  font-size: large;
+  margin-left: 15px;
+  color: #858383;
+}
+p:first-of-type{
+  font-family: sans-serif;
+}
+
+
+.card--location{
+  text-transform: uppercase;
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+.card--list{
+  display: block;
+  margin: 20px;
+}
+.card--title{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.card--discription{
+  font-size: large;
+}
